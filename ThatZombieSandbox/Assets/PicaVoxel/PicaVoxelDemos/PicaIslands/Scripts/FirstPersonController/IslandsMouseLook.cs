@@ -90,7 +90,7 @@ public class IslandsMouseLook : MonoBehaviour {
 #if UNITY_5
         Cursor.visible = false;
 #else
-	    Screen.showCursor = false;
+	    Cursor.visible = false;
 #endif
         
 	}
