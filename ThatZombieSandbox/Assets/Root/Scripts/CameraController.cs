@@ -8,7 +8,7 @@ public class CameraController : MonoBehaviour {
 	#region Private
 
 	private float cameraAngle = 0f;
-	private float speed = 1.5f;
+	private float speed = -1.5f;
 	[SerializeField] private Vector3 cameraOffset = new Vector3 (0, 0, 0);
 
 	#endregion
