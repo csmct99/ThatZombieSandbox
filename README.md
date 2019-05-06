@@ -1,2 +1,2 @@
-# ThatZombieSandbox
-Voxel Based Zombie TPS Sandbox Game
+# Unity Testing 
+Testing voxel engine and other assets
